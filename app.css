@@ -60,6 +60,30 @@ table, th, td {
 th, td {
     padding: 10px;
 }
+
 .mm_dna{
     color: blue;
+}
+
+#cv {
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+h1, p {
+
+    margin-left: 50px;
+}
+
+.eersteZin{
+    padding-top: 50px;
+}
+
+h3, h2{
+    margin-left: 75px;
+}
+
+#tekstje {
+    padding-left: 50px;
+    padding-right: 150px;
 }
